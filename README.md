@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ✨ Avid TypeScript + React, Go, Java, and Rust developer
+- 📓 Experience with DevOps including Docker and Kubernetes
+
 <!--
 **LOHT03/LOHT03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
