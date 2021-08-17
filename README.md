@@ -3,6 +3,13 @@
 - ✨ Avid TypeScript + React, Go, Java, and Rust developer
 - 📓 Experience with DevOps including Docker and Kubernetes
 
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/lhjt/readme-stats/blob/master/generated/overview.svg)
+![](https://github.com/lhjt/readme-stats/blob/master/generated/languages.svg)
+
+</a>
+
 <!--
 **LOHT03/LOHT03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
