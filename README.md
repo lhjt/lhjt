@@ -2,6 +2,7 @@
 
 - ✨ Avid Rust, Go, TypeScript, and Java developer
 - 📓 I enjoy working with DevOps tools, especially Kubernetes
+- 📈 Currently learning C & C++
 
 <a href="https://github.com/jstrieb/github-stats">
 
